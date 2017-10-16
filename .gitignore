@@ -1,3 +1,7 @@
-.idea/
-gradle/
+Kotlin-dev.iml
+
 .gradle/
+.idea/
+
+
+gradle/
